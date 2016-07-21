@@ -1,0 +1,15 @@
+div {
+	display:inline-block;
+	margin-right: 5px;
+	text-align: center;
+}
+
+.uno {
+	background-color: #FFFF00;
+	padding: 10px;
+}
+
+.dos {
+	background-color: #FF0000;
+	padding: 10px;
+}
